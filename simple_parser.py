@@ -48,4 +48,4 @@ print('Завтра: ' + pogoda_min_1 + ' ' + pogoda_max_1)
 
 pogoda_min_2=p_min[2].getText()
 pogoda_max_2=p_max[2].getText()
-print('Завтра: ' + pogoda_min_2 + ' ' + pogoda_max_2)
+print('Послезавтра: ' + pogoda_min_2 + ' ' + pogoda_max_2)
